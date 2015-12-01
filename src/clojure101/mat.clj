@@ -112,3 +112,4 @@
   (coerce :double-array [1 2 3])
 
 ;; ver https://github.com/mikera/core.matrix/blob/develop/src/test/clojure/clojure/core/matrix/demo/neural.clj
+
